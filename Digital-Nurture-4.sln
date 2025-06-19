@@ -1,0 +1,59 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6363690-Siddhant-Rai", "6363690-Siddhant-Rai", "{7B797857-0DA2-7B07-D71B-981F9A5449CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions-DotNet_FSE", "Solutions-DotNet_FSE", "{FE1CA4A8-C971-A45E-AF53-654EC144C6E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week-1", "Week-1", "{5C70FA7D-3A4B-E70B-B2C3-1B43D1D3A6FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1", "Week1", "{78EC6436-F1FD-D914-B8C7-A01CDA142709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "6363690-Siddhant-Rai\Solutions-DotNet_FSE\Week-1\Week1\Exercise1\Exercise1.csproj", "{2AC0E426-51EA-2030-D0DF-C04F8F84ABD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2", "6363690-Siddhant-Rai\Solutions-DotNet_FSE\Week-1\Week1\Exercise2\Exercise2.csproj", "{3291E662-E2E2-5654-2C6C-24384982D596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise3", "6363690-Siddhant-Rai\Solutions-DotNet_FSE\Week-1\Week1\Exercise3\Excercise3.csproj", "{95BD93DE-FA1F-2E57-3B92-5E3AA4DD3E56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise4", "6363690-Siddhant-Rai\Solutions-DotNet_FSE\Week-1\Week1\Exercise4\Excercise4.csproj", "{63F00690-A965-698B-9D9F-9A6DD7471964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC0E426-51EA-2030-D0DF-C04F8F84ABD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC0E426-51EA-2030-D0DF-C04F8F84ABD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC0E426-51EA-2030-D0DF-C04F8F84ABD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC0E426-51EA-2030-D0DF-C04F8F84ABD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3291E662-E2E2-5654-2C6C-24384982D596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3291E662-E2E2-5654-2C6C-24384982D596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3291E662-E2E2-5654-2C6C-24384982D596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3291E662-E2E2-5654-2C6C-24384982D596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95BD93DE-FA1F-2E57-3B92-5E3AA4DD3E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BD93DE-FA1F-2E57-3B92-5E3AA4DD3E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BD93DE-FA1F-2E57-3B92-5E3AA4DD3E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BD93DE-FA1F-2E57-3B92-5E3AA4DD3E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F00690-A965-698B-9D9F-9A6DD7471964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F00690-A965-698B-9D9F-9A6DD7471964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F00690-A965-698B-9D9F-9A6DD7471964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F00690-A965-698B-9D9F-9A6DD7471964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE1CA4A8-C971-A45E-AF53-654EC144C6E3} = {7B797857-0DA2-7B07-D71B-981F9A5449CE}
+		{5C70FA7D-3A4B-E70B-B2C3-1B43D1D3A6FC} = {FE1CA4A8-C971-A45E-AF53-654EC144C6E3}
+		{78EC6436-F1FD-D914-B8C7-A01CDA142709} = {5C70FA7D-3A4B-E70B-B2C3-1B43D1D3A6FC}
+		{2AC0E426-51EA-2030-D0DF-C04F8F84ABD6} = {78EC6436-F1FD-D914-B8C7-A01CDA142709}
+		{3291E662-E2E2-5654-2C6C-24384982D596} = {78EC6436-F1FD-D914-B8C7-A01CDA142709}
+		{95BD93DE-FA1F-2E57-3B92-5E3AA4DD3E56} = {78EC6436-F1FD-D914-B8C7-A01CDA142709}
+		{63F00690-A965-698B-9D9F-9A6DD7471964} = {78EC6436-F1FD-D914-B8C7-A01CDA142709}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C212099-85BA-489E-AE80-40EF9A70CEA3}
+	EndGlobalSection
+EndGlobal
