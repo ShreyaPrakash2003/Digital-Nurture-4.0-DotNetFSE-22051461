@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6363690-Siddhant-Rai", "6363690-Siddhant-Rai", "{7B797857-0DA2-7B07-D71B-981F9A5449CE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "22051461-shreya-prakash", "6362181-shreya-prakash", "{7B797857-0DA2-7B07-D71B-981F9A5449CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions-DotNet_FSE", "Solutions-DotNet_FSE", "{FE1CA4A8-C971-A45E-AF53-654EC144C6E3}"
 EndProject
@@ -10,13 +10,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week-1", "Week-1", "{5C70FA
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1", "Week1", "{78EC6436-F1FD-D914-B8C7-A01CDA142709}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "6363690-Siddhant-Rai\Solutions-DotNet_FSE\Week-1\Week1\Exercise1\Exercise1.csproj", "{2AC0E426-51EA-2030-D0DF-C04F8F84ABD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "22051461-shreya-prakash\Solutions-DotNet_FSE\Week-1\Week1\Exercise1\Exercise1.csproj", "{2AC0E426-51EA-2030-D0DF-C04F8F84ABD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2", "6363690-Siddhant-Rai\Solutions-DotNet_FSE\Week-1\Week1\Exercise2\Exercise2.csproj", "{3291E662-E2E2-5654-2C6C-24384982D596}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2", "22051461-shreya-prakash\Solutions-DotNet_FSE\Week-1\Week1\Exercise2\Exercise2.csproj", "{3291E662-E2E2-5654-2C6C-24384982D596}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise3", "6363690-Siddhant-Rai\Solutions-DotNet_FSE\Week-1\Week1\Exercise3\Excercise3.csproj", "{95BD93DE-FA1F-2E57-3B92-5E3AA4DD3E56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise3", "22051461-shreya-prakash\Solutions-DotNet_FSE\Week-1\Week1\Exercise3\Excercise3.csproj", "{95BD93DE-FA1F-2E57-3B92-5E3AA4DD3E56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise4", "6363690-Siddhant-Rai\Solutions-DotNet_FSE\Week-1\Week1\Exercise4\Excercise4.csproj", "{63F00690-A965-698B-9D9F-9A6DD7471964}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise4", "22051461-shreya-prakash\Solutions-DotNet_FSE\Week-1\Week1\Exercise4\Excercise4.csproj", "{63F00690-A965-698B-9D9F-9A6DD7471964}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
